@@ -1,12 +1,18 @@
-# PRIMEIRA PÁGINA UTILIZANDO BOOTSTRAP
+# PRIMEIRO ALERT CRIADO
 
-Essa página foi criada no bootcamp da Arbyte, foi o primeiro contato que eu tive com framework bootstrap.
+O alert é um recurso muito utilizado em JavaScript porque com ele é possível criar caixas de diálogos que aparecem na tela do usuário.
 
-Qualquer dúvida, me procura no linkedin: https://www.linkedin.com/in/josiane-rocha-576801166/
+Existem diferentes tipos de caixa de diálogo, são elas:
+
+alerta
+confirmação
+prompt de entrada.
+
+Esse alert foi criado no bootcamp da Arbyte, foi o primeiro contato que tive com essa tecnologia.
 
 # Resume
 
-Página simples, para aprender a mexer em funcionalidades do bootstrap.
+Alert simples, para entender melhor sobre a tecnologia.
 
 ## Tecnologias usadas
 
@@ -15,7 +21,7 @@ HTML
 
 #
 
-Verique ela aqui embaixo &#8595;
+Teste sua funcionalidade abaixo &#8595;
 
 
-https://josiane-rocha.github.io/Primeira_Pagina_Bootstrap/
+ttps://josiane-rocha.github.io/atividade.alert.js/
