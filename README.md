@@ -23,4 +23,4 @@ HTML e JavaScript
 Teste sua funcionalidade abaixo &#8595;
 
 
-ttps://josiane-rocha.github.io/atividade.alert.js/
+https://josiane-rocha.github.io/atividade.alert.js/
